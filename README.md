@@ -16,7 +16,6 @@
 ## 🔥 Highlight Experience
 
 ### 📌 SiPresma (Sistem Prestasi Mahasiswa)
-📸 System Preview  
 ![SiPresma](SiPresma.png)
 
 🔗 [View Repository](https://github.com/RezaAngelinaFebriyanti/ProjectSistemPencatatanPrestasi.git)  
@@ -34,7 +33,6 @@
 ---
 
 ### 📌 SiAKRED (Sistem Akreditasi Kampus)
-📸 System Preview  
 ![SiAKRED](SiAKRED.png)
 
 🔗 [View Repository](https://github.com/RezaAngelinaFebriyanti/PBL_Akreditasi.git)  
@@ -47,13 +45,6 @@
 * Ensured data validation and structured data management
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaAngelinaFebriyanti\&show_icons=true)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [rzangef15@email.com](mailto:rzangef15@email.com)  
