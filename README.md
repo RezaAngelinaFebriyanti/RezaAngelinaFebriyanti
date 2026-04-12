@@ -94,3 +94,4 @@
 
 * 📧 Email: [rzangef15@email.com](mailto:rzangef15@email.com)
 * 💼 LinkedIn: [linkedin.com/in/rzangef](https://www.linkedin.com/in/rzangef/)
+* 📷 Instagram: [@rzangef](https://instagram.com/rzangef)  
