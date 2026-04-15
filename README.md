@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 Information Systems Student
-* 💡 Passionate in System Analysis, Backend Development, and Database Design
+* 💡 Passionate in System Analysis, Backend Developer, and Database Design
 * 🚀 Experienced in managing and developing real-world systems
 * 🧠 Strong analytical thinking in designing efficient and scalable systems
 
@@ -20,16 +20,17 @@
 ![SiPresma](SiPresma.png)
 
 🔗 [View Repository](https://github.com/RezaAngelinaFebriyanti/ProjectSistemPencatatanPrestasi.git)
-📘 [Documentation](https://drive.google.com/file/d/17NPjxCgl0iONHkhcejFrN4PxK8A90b_0/view?usp=sharing)
+📘 [Documentation](https://drive.google.com/drive/folders/1EK7ONqru3BtDEI9FVSLyiKBRrthxgFJt?usp=sharing)
 
 **Role: Project Manager & Backend Developer**
 
 * Defined core features at the early stage of system development
 * Designed system workflows using activity diagrams
+* Designed and implemented database architecture using ERD
+* Applying CRUD to academic & non-academic achievement features
 * Managed role-based system flow (landing page → authentication → dashboard)
+* Developing API-based password change features
 * Coordinated team tasks and maintained development logbook
-* Designed and implemented database architecture
-* Developed backend system using Laravel
 
 ---
 
@@ -38,13 +39,13 @@
 ![SiAKRED](SiAKRED.png)
 
 🔗 [View Repository](https://github.com/RezaAngelinaFebriyanti/PBL_Akreditasi.git)
-📘 [Documentation](https://drive.google.com/file/d/1ULgcVesvPv8XhPHFuXFxiU_3-9rvRK8B/view?usp=sharing)
+📘 [Documentation](https://drive.google.com/drive/folders/1G4nMIJy5-OwdMAjlmuB_9mZ9s5T3bDc6?usp=sharing)
 
 **Role: Backend Developer**
 
-* Implemented CRUD functionality for accreditation criteria (1–9)
-* Developed backend using Laravel framework
-* Ensured data validation and structured data management
+* Designing system flow
+* Implemented CRUD functionality for criteria form
+* Create dummy data using seeder for system testing needs
 
 ---
 
@@ -70,13 +71,15 @@
 
 * Laravel (PHP Framework)
 * CRUD System Development
+* REST API
+* MIGRATION & SEEDER
 
 ### 🧰 Tools & Technologies
 
-* 🛠 Draw.io
-* 🛠 Power Designer
 * 🛠 MySQL
 * 🛠 SQL Server
+* 🛠 Draw.io
+* 🛠 Power Designer
 * 🛠 Odoo (Business Process & ERP)
 
 ---
