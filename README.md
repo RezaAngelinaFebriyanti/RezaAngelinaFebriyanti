@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Reza Angelina Febriyanti
 
-✨ Information Systems Student at Politeknik Negeri Malang | Interested in System Analysis, Database Design, and Backend Development
+✨ Information Systems Student at Politeknik Negeri Malang | Interested in System Analysis, Backend Development and Database Design
 
 ---
 
