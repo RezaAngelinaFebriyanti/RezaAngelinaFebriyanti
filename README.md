@@ -12,7 +12,15 @@
 * 🧠 Strong analytical thinking in designing efficient and scalable systems
 
 ---
+## 🔥 Work Experience
 
+### 📌 SiPEPE (Sistem Pencatatan Penjualan) ~ FullStack Developer
+* Sistem yang dikembangkan untuk menunjang operasional UMKM Kerupuk Ananda ~ Mojokerto
+* Saya membackend Login menggunakan Web authentication berbasis session + AJAX & RESTFull API
+* Saya merancang database sistem & mengimplementasikan menggunakan MySQL
+🔗 [View Repository](https://github.com/RezaAngelinaFebriyanti/SiPEPE.git)
+
+---
 ## 🔥 Highlight Experience
 
 ### 📌 SiPresma (Sistem Prestasi Mahasiswa)
