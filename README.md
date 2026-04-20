@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Reza Angelina Febriyanti
 
-✨ Information Systems Student at Politeknik Negeri Malang | System Analyst & Database Designer with Backend Development Skills
+✨ Information Systems Student at Politeknik Negeri Malang | Interested in System Analysis, Database Design, and Backend Development
 
 ---
 
@@ -103,6 +103,6 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [rzangef15@email.com](mailto:rzangef15@email.com)
+* 📧 Email: [rzangef15@gmail.com](mailto:rzangef15@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/rzangef](https://www.linkedin.com/in/rzangef/)
 * 📷 Instagram: [@rzangef](https://instagram.com/rzangef)  
